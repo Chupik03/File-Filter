@@ -22,4 +22,4 @@ java -jar util.jar -s -a -p sample- in1.txt in2.txt
             <artifactId>commons-cli</artifactId>
             <version>1.4</version>
         </dependency>
-    </dependencies>
+    </dependencies> (https://mvnrepository.com/artifact/commons-cli/commons-cli)
